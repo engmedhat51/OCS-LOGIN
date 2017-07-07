@@ -2,6 +2,7 @@
 
 -Simple app contain login and signup screens only (data entered NOT saved in SQL database or backend server)
 This app a modified version of MaterialLoginDemo app that explained in this article:
+
 The Beautiful Android Login and Signup Screens with Material Design (https://sourcey.com/beautiful-android-login-and-signup-screens-with-material-design/)
 
 -other helpful links could be used for more understanding:
