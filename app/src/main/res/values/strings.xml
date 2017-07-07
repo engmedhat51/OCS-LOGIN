@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OCS LogIn</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="NoAccount">No account yet? Create one</string>
+    <string name="Logo">OCS Company Logo</string>
+    <string name="Name">Name</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_member">Already a member? Login</string>
+</resources>
